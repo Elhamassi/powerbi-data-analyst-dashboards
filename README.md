@@ -110,18 +110,3 @@ Ces projets m'ont permis de développer des compétences en :
 - Présentation d'indicateurs métier
 
 ---
-
-# 📂 Structure
-
-```text
-powerbi-data-analyst-portfolio/
-│
-├── README.md
-│
-├── screenshots/
-│   ├── analyse-des-ventes.png
-│   ├── flux-des-transferts.png
-│   └── fidelite-client.png
-│
-└── powerbi/
-    └── README.md
